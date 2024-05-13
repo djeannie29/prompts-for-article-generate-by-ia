@@ -1,7 +1,10 @@
 ![Banner](https://github.com/djeannie29/prompts-for-article-generate-by-ia/blob/main/.github/assets/banner.png)
 
 
+
+## 💻 Acesso ao Artigo
 <a href="https://github.com/djeannie29/prompts-for-article-generate-by-ia/blob/main/.github/assets/imputacao_dados_sql.pdf" title="Visualizar PDF agora"> 📕Clique aqui para ler o artigo</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -25,8 +28,6 @@
 - Prompts utilizados: Copilot e ChatGPT
 "Escreva um artigo detalhado sobre técnicas de imputação de dados ausentes na área de Tecnologia da Informação. O artigo deve abordar alguns métodos de imputação, como média, mediana, imputação por regressão, e seus usos práticos em análise de dados. Destaque os benefícios e desafios de cada método, e forneça exemplos de situações em que a técnica seria mais adequada."
 
-## 🛠️ Instruções de execução
+## 🛠️ Como foi feito
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice, InDesign para diagramação. O passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
-
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei PowerPoint e Word.
